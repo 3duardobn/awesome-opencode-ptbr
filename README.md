@@ -10,6 +10,8 @@
 <h1>Awesome Opencode</h1>
 
 <!-- BADGES -->
+<a href="https://0rwx.com"><img src="https://img.shields.io/badge/0rwx-x%20%7C%20execute-critical?style=flat-square" alt="0rwx: x (Execute)" /></a>
+
 <p>
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" height="28" alt="Awesome" /></a>
 &nbsp;&nbsp;
@@ -2171,3 +2173,9 @@ Found an Awesome Opencode project? <br>
 <br><br>
 <sub>Released under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a>.</sub>
 </div>
+
+## Transparência de IA (0rwx: x)
+
+Este projeto adota o **[Framework 0rwx](https://0rwx.com/)** no nível **x (Execute / "I curate")**.
+
+Desenvolvido e mantido em fluxo *vibe coding* com o apoio de ferramentas e agentes de IA. O papel humano é de curadoria, validação de links e revisão de integridade da lista. Consulte [0rwx.md](0rwx.md) para detalhes da política.
